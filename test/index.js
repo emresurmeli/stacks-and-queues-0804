@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const { priorityQueue, bracketMatching } = require('../stacksAndQueues');
+const { priorityQueue, bracketMatching } = require('../stacks-and-queues.js');
 
 describe('priority Queue', ()=>{
     it('should initialize as empty', ()=>{
